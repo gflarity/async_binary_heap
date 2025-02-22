@@ -1,7 +1,7 @@
 // Copyright 2018-2025 the Deno authors. MIT license.
 // This module is browser compatible.
 
-import { descend } from "jsr:@std/data-structures";
+import { descend } from "jsr:@std/data-structures@1.0.6";
 
 /** Swaps the values at two indexes in an array. */
 function swap<T>(array: T[], a: number, b: number) {

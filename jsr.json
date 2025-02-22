@@ -1,0 +1,6 @@
+{
+  "name": "@deno-agents/async-binary-heap",
+  "version": "0.1.0",
+  "license": "MIT",
+  "exports": "./binary_heap.ts"
+}

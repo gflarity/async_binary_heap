@@ -1,7 +1,7 @@
 // Copyright 2018-2025 the Deno authors. MIT license.
-import { assert, assertEquals, assertThrows } from "jsr:@std/assert";
+import { assert, assertEquals, assertThrows } from "jsr:@std/assert@1.0.10";
 import { BinaryHeap } from "./binary_heap.ts";
-import { ascend, descend } from "jsr:@std/data-structures";
+import { ascend, descend } from "jsr:@std/data-structures@1.0.6";
 
 Deno.test("BinaryHeap throws if compare is not a function", () => {
   assertThrows(
