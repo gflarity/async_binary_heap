@@ -1,6 +1,5 @@
 # BinaryHeap (Async-Compatible Priority Queue)
 
-
 A asynchronous-compatible priority queue implementation using a binary heap. Based entirely on the [Deno synchronous implementation](https://jsr.io/@std/data-structures/doc/~/BinaryHeap).  Supports custom async comparison functions and iterator-based draining. Ideal for scenarios requiring custom ordering logic or asynchronous value processing.
 
 ## Features
@@ -14,7 +13,7 @@ A asynchronous-compatible priority queue implementation using a binary heap. Bas
 ## Installation
 
 ```bash
-jsr add @YOUR_PACKAGE_NAME
+jsr add @deno-agents/async-binary-heap
 ```
 # Usage
 
