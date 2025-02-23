@@ -1,6 +1,7 @@
 MIT License
 
 Copyright 2025 Geoff Flarity
+
 Copyright 2018-2022 the Deno authors.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
