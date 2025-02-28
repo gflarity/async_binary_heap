@@ -20,7 +20,7 @@ jsr add @deno-agents/async-binary-heap
 ## Basic Usage
 
 ```typescript
-import { BinaryHeap } from "jsr:@YOUR_PACKAGE_NAME";
+import { BinaryHeap } from "jsr:@deno-agents/async-binary-heap";
 import { descend } from "jsr:@std/data-structures";
 
 const heap = new BinaryHeap<number>();
